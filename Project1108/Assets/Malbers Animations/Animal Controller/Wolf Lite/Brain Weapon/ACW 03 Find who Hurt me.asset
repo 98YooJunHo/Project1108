@@ -40,6 +40,7 @@ MonoBehaviour:
   direction: 0
   arcsCount: 12
   LookAtTarget: 1
+  FleeForever: 1
   debugColor: {r: 0.5, g: 0.5, b: 0.5, a: 0.25}
 --- !u!114 &-7254236280633116046
 MonoBehaviour:

@@ -19,7 +19,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Ground
   - 
   - 
   - 
@@ -29,8 +29,8 @@ TagManager:
   - 
   - 
   - BodyPart
-  - 
-  - 
+  - Obstacles
+  - Food
   - 
   - 
   - Animal

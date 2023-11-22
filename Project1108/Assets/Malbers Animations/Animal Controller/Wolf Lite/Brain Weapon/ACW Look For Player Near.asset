@@ -144,4 +144,5 @@ MonoBehaviour:
   direction: 0
   arcsCount: 12
   LookAtTarget: 0
+  FleeForever: 1
   debugColor: {r: 0.5, g: 0.5, b: 0.5, a: 0.25}

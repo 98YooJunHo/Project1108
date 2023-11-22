@@ -23,8 +23,7 @@ MonoBehaviour:
   - {fileID: 5113721999917422380}
   - {fileID: 9002399122284257095}
   transitions:
-  - decision: {fileID: -9146517405615920704, guid: dba72204417307d4ab61354a5f13db91,
-      type: 2}
+  - decision: {fileID: -9146517405615920704, guid: dba72204417307d4ab61354a5f13db91, type: 2}
     trueState: {fileID: 0}
     falseState: {fileID: 11400000, guid: dba72204417307d4ab61354a5f13db91, type: 2}
   GizmoStateColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
